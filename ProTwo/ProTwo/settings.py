@@ -25,7 +25,7 @@ SECRET_KEY = 'bs7-8+u0=w^zp++)g3vdigys*8uak@!c&h9jhf!=14+_+*hnye'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['parthlearniphi.pythonanywhere.com']
 
 
 # Application definition
